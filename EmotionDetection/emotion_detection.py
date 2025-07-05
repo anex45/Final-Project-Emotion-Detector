@@ -41,3 +41,4 @@ def emotion_predictor(detected_text):
                                 'dominant_emotion': max_emotion
                                 }
         return formated_dict_emotions
+    #
